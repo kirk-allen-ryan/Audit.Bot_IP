@@ -33,3 +33,7 @@ OK - so from a logical algo perspective, this is a thorny problem - what is diff
 - My dialogs with Chat got a little testy at times; we lost patience with each other. We got snarky. It was somewhat Adversarial -- not a love-fest by any means
 - Prompt engineering with adversarial themes produced more timely redirection and fewer wasted queries than uber-friendly did - I caught more flies with vinegar in this case
 - The primary modules will be copied down to Git, as an example of the work produced by the APE partnership, and an example of the scale of ROI waiting to be mined from previous investments...
+
+- Read through the Module_5 file:
+  - Hundreds of processing steps and transforms
+  - Thousands of arguments in the logicals that drive the algo - these really get started at around line 550 or so...
