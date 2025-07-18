@@ -27,10 +27,7 @@ The number of logical conditions is daunting:
 OK - so from a logical algo perspective, this is a thorny problem - what is different about this particular solve?
 
 - After brute forcing the algo and tuning it, I then set about automating the 100-200 steps required to clean/organize the raw data, apply the voluminous calculations, use calc results to apply flagging, and distribute the flagged records back to a trusted user in Inpatient for manual review of flagged records (some flags are manually removed after consideration of comments/notes that are unavailable to Business Objects raw data reports.
-- I am a VBA tourist; I can read the code and infer intent, but I'm hardly fluent in writing solid syntax from scratch
-- ChatGPT writes 'ok' VBA, albeit with tons of mistakes and red-herrings thrown in
 - The end game was to take a highly specialized bit of process knowledge, and turn it into a one-click sharable solution that any analyst at any of our sites could clone-to-own
-- My dialogs with Chat got a little testy at times; we lost patience with each other. We got snarky. It was somewhat Adversarial -- not a love-fest by any means
 - Prompt engineering with adversarial themes produced more timely redirection and fewer wasted queries than uber-friendly did - I caught more flies with vinegar in this case
 - The primary modules will be copied down to Git, as an example of the work produced by the APE partnership, and an example of the scale of ROI waiting to be mined from previous investments...
 
